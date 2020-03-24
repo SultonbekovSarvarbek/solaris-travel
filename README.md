@@ -1,2 +1,2 @@
-# med-plus
-med-plus.uz
+# solaris-travel
+solaris-travel.uz
